@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding-left: 25px;
+    background: linear-gradient();
+    background-image: url(pixel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    text-align: left;
+}
+navbar{
+    flex: 1px;
+}
+ul,li{
+    display: inline-block;
+    margin: 20px;
+    font-size: 14px;
+    padding-left: 100px;
+    justify-content: center;
+    align-items: left;
+    color:white;
+    cursor: pointer;
+
+
+}
+button{
+    border-radius: 20px;
+    padding: 1%;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    float: left;
+}
+
+
+
